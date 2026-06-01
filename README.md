@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/factory.png" alt="SkyTex Logo" width="80">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/logo.png?raw=true" alt="SkyTex Logo" width="80">
 </p>
 
 <h1 align="center">SkyTex ERP · پلتفرم هوشمند مدیریت تولید و انبارداری</h1>
@@ -101,14 +101,30 @@ text
 به طور کامل پیاده‌سازی شده‌اند.
 
 ---
-
-# تصاویر محیط پلتفرم
+## 📸 نمایشی از محیط پلتفرم
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/factory.png" alt="SkyTex Logo" width="80">
-   <img src="https://img.icons8.com/color/96/000000/factory.png" alt="SkyTex Logo" width="80">
-    <img src="https://img.icons8.com/color/96/000000/factory.png" alt="SkyTex Logo" width="80">
+  <em>تصاویر زیر نمای کلی از ماژول‌های مختلف سیستم اسکای‌تکس را نشان می‌دهد.</em>
 </p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; direction: ltr;">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/01.png?raw=true" alt="Dashboard" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/02.png?raw=true" alt="Production Series" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/03.png?raw=true" alt="Fabric Rolls" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/04.png?raw=true" alt="Yarn Inventory" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/05.png?raw=true" alt="Outbound Shipment" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/06.png?raw=true" alt="Customer Management" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/07.png?raw=true" alt="Print Orders" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/08.png?raw=true" alt="Warehouses" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/09.png?raw=true" alt="Machines" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/10.png?raw=true" alt="Weavers" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/11.png?raw=true" alt="QC Check" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/12.png?raw=true" alt="Platform Settings" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/13.png?raw=true" alt="Audit Logs" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/14.png?raw=true" alt="Inbound Delivery" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/15.png?raw=true" alt="Reports" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/6lineir/SkyFactory_ERM_info/blob/main/Screens_ERM/16.png?raw=true" alt="Login Page" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ---
 
